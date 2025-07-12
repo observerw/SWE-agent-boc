@@ -1,0 +1,1 @@
+docker build -t swe-agent-boc:latest -f Dockerfile.boc .
